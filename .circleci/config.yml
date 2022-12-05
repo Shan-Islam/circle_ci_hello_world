@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  bump-revision: circleci/bump-revision@x.y.z
+  bump-revision: circleci/bump-revision@1.0.1
 
 workflows:
   release:
